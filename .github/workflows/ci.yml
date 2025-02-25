@@ -12,5 +12,5 @@ steps:
   run: date
 
 - name: Esperar 3 segundos
-  run: sleep3
+  run: sleep 3
     
